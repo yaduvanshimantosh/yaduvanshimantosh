@@ -1,13 +1,12 @@
-<!-- PREMIUM HEADER BANNER (बिल्कुल वैसा ही जैसा आपने स्क्रीनशॉट में देखा) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Mantosh%20Kumar&fontSize=40&animation=fadeIn&fontColor=ffffff&theme=pink" alt="Header Banner" />
-</p>
+<!-- PREMIUM TECH HEADER CONTAINER -->
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 30px; border-radius: 15px; margin-bottom: 20px;">
+  <h1 style="color: #FF69B4; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 38px; margin: 0; font-weight: 800; text-shadow: 2px 2px 4px rgba(0,0,0,0.4);">MANTOSH KUMAR</h1>
+  <p style="color: #ffffff; font-size: 16px; margin: 5px 0 0 0; opacity: 0.8; letter-spacing: 2px;">OPERATIONS & DATA ANALYTICS EXPERT</p>
+</div>
 
-<!-- PRETTY TYPING ANIMATION (एनिमेटेड टाइपराइटर हेडिंग) -->
+<!-- PRETTY TYPING ANIMATION (एनिमेटेड टाइपराइटर हेडिंग जो 100% लोड होगी) -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,10 +38,10 @@
 
 ---
 
-### 📊 GitHub Stats (Your Dashboard)
-<!-- AUTOMATIC PROFILE VISITOR COUNTER & STATS -->
+### 📊 GitHub Activity Dashboard
+<!-- ACTUAL WORKING STATS CARD FOR YADUVANSHIMANTOSH -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Mantosh's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yaduvanshimantosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mantosh's GitHub stats" height="160" />
 </p>
 
 <sub>*“The technology we use is only as good as the operational efficiency you create.”*</sub>
