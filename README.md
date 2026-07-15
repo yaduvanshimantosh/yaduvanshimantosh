@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm Mantosh!
 
-<!--
-**yaduvanshimantosh/yaduvanshimantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Relations & Data Analytics enthusiast from India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 About Me & What I Do:
+- 🛠️ **Data Management:** Working with Advanced Excel Automations, payroll formatting, and data entry operations.
+- 📈 **Growth:** Actively learning Data Analysis and modern tech tools to optimize office workflows.
+- 💼 **Professional Role:** Experienced in handling daily operations and documentation efficiently.
+
+---
+
+### 🌐 Connect with me:
+📧 [Email Me](mailto:mantoshkumar926377@gmail.com)
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/mantosh-kumar-643a81324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+⚡ *"The technology you use is only as good as the operational efficiency you create."*
