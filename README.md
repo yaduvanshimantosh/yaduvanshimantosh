@@ -1,9 +1,14 @@
-# 👋 Hello, I'm Mantosh Kumar!
+<!-- PREMIUM HEADER BANNER (बिल्कुल वैसा ही जैसा आपने स्क्रीनशॉट में देखा) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Mantosh%20Kumar&fontSize=40&animation=fadeIn&fontColor=ffffff&theme=pink" alt="Header Banner" />
+</p>
 
-<!-- PRETTY TYPING ANIMATION (जो सबसे प्रीमियम लुक देगा) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- PRETTY TYPING ANIMATION (एनिमेटेड टाइपराइटर हेडिंग) -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -40,4 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Mantosh's GitHub stats" height="150" />
 </p>
 
-<sub>*“The technology we use is only as good as the operational efficiency we create.”*</sub>
+<sub>*“The technology we use is only as good as the operational efficiency you create.”*</sub>
