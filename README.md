@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=yaduvanshimantosh&color=ff69b4&style=flat-square" alt="Visitor Counter" />
-</p>
-
 ---
 
 ### 💼 Professional Snapshot
@@ -40,18 +36,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaduvanshimantosh&theme=radial&column=5" alt="Mantosh's Trophies" />
-</p>
-
----
-
-### 📊 GitHub Activity Dashboard & Streak
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaduvanshimantosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mantosh's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaduvanshimantosh&theme=tokyonight" alt="Mantosh's Github Streak" height="160" />
-</p>
+### 🏆 Profile Milestones
+- 🥇 **Core Specialty:** Advanced Excel & Workflow Optimization
+- 🥈 **Data Management:** High-Accuracy Data Operations & Payroll Structuring
+- 🥉 **Continuous Growth:** Active Version Control & Analytics Learning
 
 ---
 
