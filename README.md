@@ -18,11 +18,17 @@
 
 ---
 
-### 🛠️ Tech & Tools Stack
-<!-- PREMIUM BADGES -->
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge&logo=google-analytics&logoColor=white)
+### 🛠️ Tech & Tools Stack (Click to Visit My Portfolio Website 🌐)
+<!-- INTERACTIVE PREMIUM BADGES LINKED TO YOUR GOOGLE SITE -->
+<a href="https://sites.google.com/view/mantoshkumar-in/home" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</a>
+<a href="https://sites.google.com/view/mantoshkumar-in/home" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://sites.google.com/view/mantoshkumar-in/home" target="_blank">
+  <img src="https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analytics" />
+</a>
 
 ---
 
