@@ -4,9 +4,13 @@
   <p style="color: #ffffff; font-size: 16px; margin: 5px 0 0 0; opacity: 0.8; letter-spacing: 2px;">OPERATIONS & DATA ANALYTICS EXPERT</p>
 </div>
 
-<!-- PRETTY TYPING ANIMATION (एनिमेटेड टाइपराइटर हेडिंग जो 100% लोड होगी) -->
+<!-- PRETTY TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Industrial+Relations+Officer;Excel+Automation+Expert;Data+Analytics+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=yaduvanshimantosh&color=ff69b4&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
@@ -19,10 +23,35 @@
 ---
 
 ### 🛠️ Tech & Tools Stack
-<!-- PREMIUM BADGES FOR VISUAL APPEAL -->
+<!-- PREMIUM BADGES -->
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Data_Analytics-007ACC?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+---
+
+### 📈 Skills Proficiency
+- **Advanced Excel & Automations** 
+  `████████████████████ 100%`
+- **Data Entry & Document Formatting** 
+  `████████████████░░░░ 80%`
+- **Data Analytics Tools** 
+  `████████████░░░░░░░░ 60%`
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaduvanshimantosh&theme=radial&column=5" alt="Mantosh's Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Activity Dashboard & Streak
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaduvanshimantosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mantosh's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaduvanshimantosh&theme=tokyonight" alt="Mantosh's Github Streak" height="160" />
+</p>
 
 ---
 
@@ -37,11 +66,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity Dashboard
-<!-- ACTUAL WORKING STATS CARD FOR YADUVANSHIMANTOSH -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaduvanshimantosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mantosh's GitHub stats" height="160" />
-</p>
-
 <sub>*“The technology we use is only as good as the operational efficiency you create.”*</sub>
