@@ -79,16 +79,28 @@
 ### 📈 Core IR Analytics Proficiency
 
 - **Statutory Registers & Documentation (Form A, B, D, XIII)**  
-  ![Statutory Registers](https://geps.dev)
+  ```diff
+  [██████████████████████████████████████████████████] 95%
+  + [🟢 PROGRESS: EXCEEDS EXPECTATIONS]
+  ```
 
 - **Workforce Absenteeism & Attendance Analysis**  
-  ![Attendance Analysis](https://geps.dev)
+  ```diff
+  [████████████████████████████████████████████░░░░░░] 90%
+  + [🟢 PROGRESS: HIGHLY PROFICIENT]
+  ```
 
 - **Contractor Compliance Verification & Audits**  
-  ![Contractor Compliance](https://geps.dev)
+  ```diff
+  [████████████████████████████████████████████░░░░░░] 90%
+  + [🟢 PROGRESS: HIGHLY PROFICIENT]
+  ```
 
 - **Payroll Structuring & Overtime (OT) Optimization**  
-  ![Payroll Structuring](https://geps.dev)
+  ```diff
+  [██████████████████████████████████████░░░░░░░░░░░░] 80%
+  + [🟢 PROGRESS: ADVANCED SKILL]
+  ```
 
 ---
 
