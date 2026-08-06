@@ -61,3 +61,38 @@
 
 ---
 <sub>*“The technology we use is only as good as the operational efficiency you create.”*</sub>
+<!-- 📊 INDUSTRIAL RELATIONS & HR ANALYTICS SECTION -->
+---
+## 📊 Industrial Relations & HR Analytics Portfolio
+
+> *Bridging the gap between Workforce Management, Labour Laws, and Data-Driven Insights.*
+
+### 🛠️ IR & Compliance Tech Stack
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+### 📈 Core IR Analytics Proficiency
+- **Statutory Registers & Documentation (Form A, B, D, XIII)** ─── ████████████████████ 95%
+- **Workforce Absenteeism & Attendance Analysis** ────── ██████████████████░░ 90%
+- **Contractor Compliance Verification & Audits** ─────── ██████████████████░░ 90%
+- **Payroll Structuring & Overtime (OT) Optimization** ─── ████████████████░░░░ 80%
+
+---
+
+### 📁 Featured IR & Workforce Projects
+
+#### 1. 📉 Workforce Absenteeism & Payroll Optimizer (Excel & Pivot Tables)
+- **Objective:** Analyzed daily attendance and shift rosters for **300-500+ site employees** to reduce manual errors and optimize labor costs.
+- **Key Outcome:** Created a dynamic Excel Dashboard utilizing **Pivot Tables & VLOOKUP** to track Overtime (OT) and Loss of Pay (LOP) days. Successfully streamlined timely and 100% accurate salary processing for the client.
+
+#### 2. 📜 Smart Statutory Compliance Tracker (CLRA & Factories Act)
+- **Objective:** Automated the tracking and maintenance of mandatory labor law registers to ensure 100% legal safety for contract labor.
+- **Key Outcome:** Developed an Excel-based automated compliance alert system for **Form XIII (Register of Workmen)**, contractor licenses, and mandatory declarations regarding Child Labour and Pregnant Workers.
+
+#### 3. 👥 Grievance Redressal & Onboarding System
+- **Objective:** Improved the onboarding experience and resolved complex worker queries regarding PF KYC, UAN generation, and attendance discrepancies.
+- **Key Outcome:** Designed a structured documentation pipeline using **MS Word Mail Merge** for swift drafting of official notices and Form Q (Appointment Letters), improving resolution speed by 40%.
+
+---
