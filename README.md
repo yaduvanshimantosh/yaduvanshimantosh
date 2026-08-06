@@ -96,3 +96,55 @@
 - **Key Outcome:** Designed a structured documentation pipeline using **MS Word Mail Merge** for swift drafting of official notices and Form Q (Appointment Letters), improving resolution speed by 40%.
 
 ---
+# MANTOSH KUMAR
+### OPERATIONS & DATA ANALYTICS EXPERT
+
+---
+
+## 📊 Industrial Relations & HR Analytics Portfolio
+
+> *Bridging the gap between Workforce Management, Labour Laws, and Data-Driven Insights.*
+
+### 🛠️ Tech & Tools Stack
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+### 📈 Core IR Analytics Proficiency
+
+- **Statutory Registers & Documentation (Form A, B, D, XIII)**  
+  ![Statutory Registers](https://geps.dev)
+
+- **Workforce Absenteeism & Attendance Analysis**  
+  ![Attendance Analysis](https://geps.dev)
+
+- **Contractor Compliance Verification & Audits**  
+  ![Contractor Compliance](https://geps.dev)
+
+- **Payroll Structuring & Overtime (OT) Optimization**  
+  ![Payroll Structuring](https://geps.dev)
+
+---
+
+### 📁 Featured IR & Workforce Projects
+
+#### 1. 📉 Workforce Absenteeism & Payroll Optimizer (Excel & Pivot Tables)
+- **Objective:** Analyzed daily attendance and shift rosters for **300-500+ site employees** to reduce manual errors and optimize labor costs.
+- **Key Outcome:** Created a dynamic Excel Dashboard utilizing **Pivot Tables & VLOOKUP** to track Overtime (OT) and Loss of Pay (LOP) days. Successfully streamlined timely and 100% accurate salary processing for the client.
+
+#### 2. 📜 Smart Statutory Compliance Tracker (CLRA & Factories Act)
+- **Objective:** Automated the tracking and maintenance of mandatory labor law registers to ensure 100% legal safety for contract labor.
+- **Key Outcome:** Developed an Excel-based automated compliance alert system for **Form XIII (Register of Workmen)**, contractor licenses, and mandatory declarations regarding Child Labour and Pregnant Workers.
+
+#### 3. 👥 Grievance Redressal & Onboarding System
+- **Objective:** Improved the onboarding experience and resolved complex worker queries regarding PF KYC, UAN generation, and attendance discrepancies.
+- **Key Outcome:** Designed a structured documentation pipeline using **MS Word Mail Merge** for swift drafting of official notices and Form Q (Appointment Letters), improving resolution speed by 40%.
+
+---
+
+### 🏆 Profile Milestones
+- 🥇 **Core Specialty:** Advanced Excel & Workflow Optimization
+- 🗄️ **Data Management:** High-Accuracy Data Operations & Payroll Structuring
+- 📈 **Continuous Growth:** Active Version Control & Analytics Learning at IIT Guwahati
+
